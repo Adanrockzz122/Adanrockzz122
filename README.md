@@ -19,8 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adanrockzz122&show_icons=true&locale=en" alt="adanrockzz122" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adanrockzz122&" alt="adanrockzz122" /></p>
-
 
 <!--
 **Adanrockzz122/Adanrockzz122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
